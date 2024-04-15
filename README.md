@@ -1,1 +1,1 @@
-<img src="https://readme-github.vercel.app/language?username=Beksanoff"/>
+<img src="https://testred-mfzzatwlf-trysquaddfs-projects.vercel.app/?name=Beksanoff"/>
